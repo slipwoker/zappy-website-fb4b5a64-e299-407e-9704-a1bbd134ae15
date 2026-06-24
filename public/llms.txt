@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-fb4b5a64.zappy5.app
+https://example.com
 מאניה גינס מזמינה אותך לחוויית קמעונאות אופנה סוחפת עם קולקציות ג׳ינס עדכניות ומלאות תשוקה. היכנסו עכשיו וגלו את ההתאמה המושלמת לסגנון החיים שלכם.
 
 ### הסיפור שלנו
-https://-fb4b5a64.zappy5.app/brand-story
+https://example.com/brand-story
 צללו לסיפור של מאניה גינס, מותג אופנה קמעונאית שנולד מאהבה בלתי מתפשרת לדנים. למה אנחנו אחת מחברות האופנה המובילות? קראו על החזון שמניע כל קולקציה.
 
 ### לוקבוק
-https://-fb4b5a64.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפו בלוקבוק החדש של מאניה גינס וקבלו השראה למראות הכי חמים בתחום קמעונאות האופנה. גלו איך לשלב ג׳ינס במלתחה יומיומית עם טוויסט אופנתי מנצח.
 
 ### צור קשר
-https://-fb4b5a64.zappy5.app/contact
+https://example.com/contact
 רוצים לדעת עוד על עסקי האופנה הקמעונאית שלנו? צוות מאניה גינס כאן לכל שאלה על קולקציות, מידות או סטיילינג. צרו קשר עוד היום ונתאים לכם את הלוק המושלם.
 
 ### Products
-https://-fb4b5a64.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מאניה גינס
 
 ### Cart
-https://-fb4b5a64.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-fb4b5a64.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-fb4b5a64.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-fb4b5a64.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-fb4b5a64.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-fb4b5a64.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מאניה גינס
 
 ### Category
-https://-fb4b5a64.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מאניה גינס
 
 ### תודה רבה | מאניה גינס
-https://-fb4b5a64.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה אצל צוות al hokair fashion retail ויטופל בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-fb4b5a64.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-fb4b5a64.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-fb4b5a64.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ Fashion Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-fb4b5a64.zappy5.app/sitemap.xml
-- Robots: https://-fb4b5a64.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-fb4b5a64.zappy5.app/llms-full.txt
-- Products (JSON): https://-fb4b5a64.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-fb4b5a64.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
